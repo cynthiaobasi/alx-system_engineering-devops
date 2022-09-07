@@ -1,1 +1,1 @@
-This script is for shell variables
+This is a script for shell variables
